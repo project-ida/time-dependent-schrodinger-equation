@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/project-ida/time-dependent-schrodinger-equation/blob/master/waves-and-wave-packets.ipynb)
 
 
 # 1 - Time evolution of waves and wave packets

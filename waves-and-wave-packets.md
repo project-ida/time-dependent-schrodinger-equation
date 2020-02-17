@@ -67,7 +67,7 @@ data1,data2,data3,data4,data5,data6 = np.zeros((6, allt.size, allx.size))
 ```python
 # create 2 empty subplots with 3 empty lines in each 
 
-fig = plt.figure(figsize=(12,6))
+fig = plt.figure(figsize=(9,5))
 
 axA = plt.subplot(211)
 axA.set_ylim(-3,3)

@@ -1,7 +1,7 @@
 <a href="https://colab.research.google.com/github/project-ida/time-dependent-schrodinger-equation/blob/master/waves-and-wave-packets.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
-# 1 - Time evolution of waves and wave packets
+# 1 - Time evolution of waves and wave packets 
 
 
 In this tutorial we are going to investigate the time dependent behavior of different waves, including the following:
